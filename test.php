@@ -7,7 +7,7 @@
     <h1>first</h1>
 
     <?php
-    echo "last";
+    echo "manual test";
     ?>
 </body>
 </html>
