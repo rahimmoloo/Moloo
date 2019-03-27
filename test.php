@@ -7,7 +7,7 @@
     <h1>first</h1>
 
     <?php
-    echo "first";
+    echo "last";
     ?>
 </body>
 </html>
